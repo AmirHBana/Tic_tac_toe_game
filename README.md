@@ -1,4 +1,4 @@
-<body style="background-color: greenyellow;">
+<body style="background-color: rgb(122, 255, 189);">
 <pre>
 Tic_tac_toe_game
     game that program with python use tkinter library
